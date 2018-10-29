@@ -3,6 +3,7 @@
 ## Make cat colorful again!
 
 Colcat is like the GNU cat utility, except it colors every column of each line with a different color.
+It doesn't care or knows about the output and syntax, it just prints a different color after each space. 
 
 ![screen](https://raw.githubusercontent.com/lp1dev/colcat/master/screen.gif)
     
